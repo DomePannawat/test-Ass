@@ -15,7 +15,7 @@ const Owner = () => {
         <div className="flex justify-center items-center mt-10">
           <img
             className="w-60"
-            src="../src/assets/Domepannawat.jpg"
+            src="/Domepannawat.jpg"
             alt="DomePannawat"
           />
         </div>
